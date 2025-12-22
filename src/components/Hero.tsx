@@ -27,7 +27,7 @@ export default function Hero() {
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 1.2, ease: "easeOut" }}
                 >
-                    <h1 className="text-3xl md:text-5xl font-medium text-white mb-8 whitespace-pre-line leading-relaxed tracking-[0.2em] uppercase drop-shadow-sm">
+                    <h1 className="text-xl md:text-5xl font-medium text-white mb-8 whitespace-pre-line leading-relaxed tracking-[0.2em] uppercase drop-shadow-sm">
                         {t.hero.headline}
                     </h1>
 
