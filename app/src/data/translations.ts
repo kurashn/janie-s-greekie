@@ -90,7 +90,7 @@ export const translations = {
       lineman: "LINE MANで注文",
     },
     footer: {
-      copyright: "© 2024 janie's greekie. All rights reserved.",
+      copyright: "© 2025 janie's greekie. All rights reserved.",
     },
   },
   en: {
@@ -182,7 +182,7 @@ export const translations = {
       lineman: "Order on LINE MAN",
     },
     footer: {
-      copyright: "© 2024 janie's greekie. All rights reserved.",
+      copyright: "© 2025 janie's greekie. All rights reserved.",
     },
   },
   th: {
@@ -274,7 +274,7 @@ export const translations = {
       lineman: "สั่งผ่าน LINE MAN",
     },
     footer: {
-      copyright: "© 2024 janie's greekie. All rights reserved.",
+      copyright: "© 2025 janie's greekie. All rights reserved.",
     },
   },
 };
