@@ -31,7 +31,7 @@ export default function Header() {
         >
             <div className="container mx-auto px-4 flex justify-between items-center">
                 {/* Logo */}
-                <h1 className={`text-2xl font-bold tracking-tight transition-colors ${isScrolled ? 'text-rose-900' : 'text-white'}`}>
+                <h1 className="text-2xl font-bold tracking-tight transition-colors text-[#ff9eb5]">
                     janie's greekie
                 </h1>
 
