@@ -31,9 +31,12 @@ export default function Header() {
         >
             <div className="container mx-auto px-4 flex justify-between items-center">
                 {/* Logo */}
-                <h1 className="text-2xl font-bold tracking-tight transition-colors text-[#ff9eb5]">
-                    janie's greekie
-                </h1>
+                {/* Logo */}
+                <img
+                    src="/images/logo1.png"
+                    alt="janie's greekie"
+                    className="h-12 w-auto object-contain"
+                />
 
                 {/* Desktop Nav */}
                 <nav className="hidden md:flex items-center space-x-8">
