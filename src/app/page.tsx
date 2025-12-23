@@ -6,7 +6,7 @@ import Menu from "@/components/Menu";
 import Reviews from "@/components/Reviews";
 import Delivery from "@/components/Delivery";
 import Footer from "@/components/Footer";
-import StickyCTA from "@/components/StickyCTA";
+
 
 export default function Home() {
   return (
@@ -18,7 +18,7 @@ export default function Home() {
       <Reviews />
       <Delivery />
       <Footer />
-      <StickyCTA />
+
     </main>
   );
 }
